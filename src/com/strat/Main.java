@@ -5,6 +5,7 @@ package com.strat;
 	public class Main {
 		// Change
 		//add specific defense and gear speed
+		// RJ added stuff
 		int g, z, y, l, a, b, c, a1, b1, c1;
 		int l1, l2, l3, l4, l5, l6;
 		int x1, x2, x3, x4, x5, x6, m1, m;
